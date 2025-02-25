@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  SUBSCRIPTION-ID: 0585f992-fbfc-423d-9d62-369281c04003
+  WEBAPP-NAME: eshoponweb-webapp-OSCARKORTEKAAS
 
 
 jobs:
